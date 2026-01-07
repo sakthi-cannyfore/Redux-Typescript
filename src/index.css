@@ -1,0 +1,14 @@
+input,select,option{
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 10px;
+}
+p{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-weight: 500;
+}
+
+@import "tailwindcss"
+
